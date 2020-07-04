@@ -3,7 +3,7 @@ This is my very own Memory game made on Python
 
 You can use this game as you like.
 To run the exe file
--> Download all of the above files.
+-> Download all of the above files.<br>
 -> Download and extract the file from the archive.
 -> Store them in the same Directory.
 -> Then to run the exe file just double click on it.
